@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>86DD441E-2C41-4602-B2E2-7B7AA2806EAC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DemoProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>991BD93B-509B-4676-BC0D-99EC8E10BEFF</key>
+		<string>ssh://github.com/syim/DemoProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DemoProject/DemoProject.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>991BD93B-509B-4676-BC0D-99EC8E10BEFF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/syim/DemoProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>991BD93B-509B-4676-BC0D-99EC8E10BEFF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>991BD93B-509B-4676-BC0D-99EC8E10BEFF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DemoProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>
